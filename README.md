@@ -46,4 +46,4 @@ The project addresses four key research questions:
 | What is the impact of distance to employment centres (DIS) on home values? | Linear Regression | Significant positive impact. Every unit increase in distance increases value by about 1.09 (in $1000s), i.e., ~$1,091. |
 
 
-## **Author :** Keerthana K
+### **Author :** Keerthana K
