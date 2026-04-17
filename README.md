@@ -1,4 +1,4 @@
-**Boston Housing Statistical Analysis**
+#**Boston Housing Statistical Analysis**
 
 ### **Project Description:**
 
@@ -44,3 +44,5 @@ The project addresses four key research questions:
 | Does the age of the house (AGE) impact the median value (MEDV)? | ANOVA | Significant. Older houses tend to be cheaper than newer ones. |
 | Is there a relationship between NOX and INDUS? | Pearson Correlation | Strong positive correlation (r = 0.76). Higher industrial areas have higher NOX levels. |
 | What is the impact of distance to employment centres (DIS) on home values? | Linear Regression | Significant positive impact. Every unit increase in distance increases value by about 1.09 (in $1000s), i.e., ~$1,091. |
+
+**Author :** Keerthana K
